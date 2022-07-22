@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diveshiyyapan
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently exploring Machine Learning algorithms
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 reach me at diveshiyyapans@gmail.com
 
